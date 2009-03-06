@@ -16,6 +16,12 @@
     <orderEntry type="inheritedJdk" />
     <orderEntry type="library" name="[gem] rails(v.2.2.2, d:\ruby\lib\ruby\gems\1.8\gems\rails-2.2.2)" level="application" />
     <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" name="[gem] activerecord (v2.2.2, C:/ruby/lib/ruby/gems/1.8/gems/activerecord-2.2.2)" level="application" />
+    <orderEntry type="library" name="[gem] activesupport (v2.2.2, C:/ruby/lib/ruby/gems/1.8/gems/activesupport-2.2.2)" level="application" />
+    <orderEntry type="library" name="[gem] actionmailer (v2.2.2, C:/ruby/lib/ruby/gems/1.8/gems/actionmailer-2.2.2)" level="application" />
+    <orderEntry type="library" name="[gem] actionpack (v2.2.2, C:/ruby/lib/ruby/gems/1.8/gems/actionpack-2.2.2)" level="application" />
+    <orderEntry type="library" name="[gem] activeresource (v2.2.2, C:/ruby/lib/ruby/gems/1.8/gems/activeresource-2.2.2)" level="application" />
+    <orderEntry type="library" name="[gem] rails (v2.2.2, C:/ruby/lib/ruby/gems/1.8/gems/rails-2.2.2)" level="application" />
   </component>
   <component name="RModuleContentRootManager">
     <TEST_URLS url="file://$MODULE_DIR$/test" />
@@ -34,6 +40,20 @@
     file://I:/src/rails/fun-task-tic/vendor/plugins
     <USER_URLS url="file://$MODULE_DIR$/public/stylesheets" />
     file://I:/src/rails/fun-task-tic/public/stylesheets
+    <USER_URLS url="file://$MODULE_DIR$/lib" />
+    file://C:/dev/fun-task-tic/lib
+    <USER_URLS url="file://$MODULE_DIR$/public/javascripts" />
+    file://C:/dev/fun-task-tic/public/javascripts
+    <USER_URLS url="file://$MODULE_DIR$/config" />
+    file://C:/dev/fun-task-tic/config
+    <USER_URLS url="file://$MODULE_DIR$/spec" />
+    file://C:/dev/fun-task-tic/spec
+    <USER_URLS url="file://$MODULE_DIR$/vendor/plugins" />
+    file://C:/dev/fun-task-tic/vendor/plugins
+    <USER_URLS url="file://$MODULE_DIR$/vendor/rails" />
+    file://C:/dev/fun-task-tic/vendor/rails
+    <USER_URLS url="file://$MODULE_DIR$/public/stylesheets" />
+    file://C:/dev/fun-task-tic/public/stylesheets
   </component>
 </module>
 
