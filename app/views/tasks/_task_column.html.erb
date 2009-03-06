@@ -1,0 +1,10 @@
+<div><%=title%></div>
+<% for task in tasks %>
+    <div style="float:left;width:50%">
+        <div style="border:1px solid black">
+            <%= link_to task.title, task %>
+            <br/>
+            <%= h task.desc %>
+        </div>
+    </div>
+<% end %>
