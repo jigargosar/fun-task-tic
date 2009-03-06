@@ -73,53 +73,6 @@
     <option name="PROJECT_PROFILE" />
     <option name="USE_PROJECT_LEVEL_SETTINGS" value="false" />
   </component>
-  <component name="Cvs2Configuration">
-    <option name="PRUNE_EMPTY_DIRECTORIES" value="true" />
-    <option name="MERGING_MODE" value="0" />
-    <option name="MERGE_WITH_BRANCH1_NAME" value="HEAD" />
-    <option name="MERGE_WITH_BRANCH2_NAME" value="HEAD" />
-    <option name="RESET_STICKY" value="false" />
-    <option name="CREATE_NEW_DIRECTORIES" value="true" />
-    <option name="DEFAULT_TEXT_FILE_SUBSTITUTION" value="kv" />
-    <option name="PROCESS_UNKNOWN_FILES" value="false" />
-    <option name="PROCESS_DELETED_FILES" value="false" />
-    <option name="PROCESS_IGNORED_FILES" value="false" />
-    <option name="RESERVED_EDIT" value="false" />
-    <option name="CHECKOUT_DATE_OR_REVISION_SETTINGS">
-      <value>
-        <option name="BRANCH" value="" />
-        <option name="DATE" value="" />
-        <option name="USE_BRANCH" value="false" />
-        <option name="USE_DATE" value="false" />
-      </value>
-    </option>
-    <option name="UPDATE_DATE_OR_REVISION_SETTINGS">
-      <value>
-        <option name="BRANCH" value="" />
-        <option name="DATE" value="" />
-        <option name="USE_BRANCH" value="false" />
-        <option name="USE_DATE" value="false" />
-      </value>
-    </option>
-    <option name="SHOW_CHANGES_REVISION_SETTINGS">
-      <value>
-        <option name="BRANCH" value="" />
-        <option name="DATE" value="" />
-        <option name="USE_BRANCH" value="false" />
-        <option name="USE_DATE" value="false" />
-      </value>
-    </option>
-    <option name="SHOW_OUTPUT" value="false" />
-    <option name="ADD_WATCH_INDEX" value="0" />
-    <option name="REMOVE_WATCH_INDEX" value="0" />
-    <option name="UPDATE_KEYWORD_SUBSTITUTION" />
-    <option name="MAKE_NEW_FILES_READONLY" value="false" />
-    <option name="SHOW_CORRUPTED_PROJECT_FILES" value="0" />
-    <option name="TAG_AFTER_PROJECT_COMMIT" value="false" />
-    <option name="OVERRIDE_EXISTING_TAG_FOR_PROJECT" value="true" />
-    <option name="TAG_AFTER_PROJECT_COMMIT_NAME" value="" />
-    <option name="CLEAN_COPY" value="false" />
-  </component>
   <component name="DependenciesAnalyzeManager">
     <option name="myForwardDirection" value="false" />
   </component>
